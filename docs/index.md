@@ -1,5 +1,5 @@
 ---
-title: Test
+title: "Test"
 ---
 
  # This is H1
@@ -8,5 +8,5 @@ The  `object` type is an alias for <xref:System.Object> in the .NET Framework. I
 ##This is H2
  The following sample shows how variables of type `object` can accept values of any data type and how variables of type `object` can use methods on <xref:System.Object> from the .NET Framework.  
   
-#######This is H6  
+ 
  [!INCLUDE[CSharplangspec](~/includes/csharplangspec-md.md)]  
